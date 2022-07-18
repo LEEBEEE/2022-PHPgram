@@ -1,0 +1,22 @@
+.dm_msg_container::-webkit-scrollbar {
+    width: 10px;
+}
+.dm_msg_container::-webkit-scrollbar-thumb {
+background-color: #61697c;
+border-radius: 10px;
+background-clip: padding-box;
+border: 1px solid transparent;
+}
+.dm_msg_container::-webkit-scrollbar-track {
+background-color: rgb(154, 158, 172);
+border-radius: 10px;
+box-shadow: inset 0px 0px 5px white;
+}
+
+.dm_user_list_container {
+    box-shadow: rgba(0, 0, 0, 0.1) 15px -10px 15px -5px, rgba(0, 0, 0, 0.04) 10px 0px 10px -5px;
+}
+
+.bg-sky {
+    background-color: #a8e3ffbb;
+}

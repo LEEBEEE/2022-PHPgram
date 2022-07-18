@@ -1,0 +1,14 @@
+main { 
+    background-color: rgb(250, 250, 250);
+    --font : Arial;
+}
+.w100p_mw614 {
+    width: 100%; max-width: 614px;
+}
+.fas { color: #ea4040; }
+.item {
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    background-color: white;
+    font-family: var(--font);
+}

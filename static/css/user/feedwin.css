@@ -1,0 +1,6 @@
+.modal-md {max-width: 425px;}
+._modal-item {
+    padding: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
