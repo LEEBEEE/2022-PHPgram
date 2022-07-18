@@ -1,0 +1,8 @@
+<?php
+                        // $meyou = $this->data->meyou;
+                        // $youme = $this->data->youme;
+                    ?>
+                    <!-- <button type="button" id="btnModProfile" class="btn btn-outline-secondary <?= getIuser() === $this->data->iuser ? "" : "d-none" ?>">프로필 수정</button>
+                    <button type="button" id="btnFollow" data-follow="0" class="btn btn-primary <?= $youme && !$meyou ? "" : "d-none" ?>">맞팔로우 하기</button>
+                    <button type="button" id="btnFollow" data-follow="0" class="btn btn-primary <?= !$youme && !$meyou && getIuser() !== $this->data->iuser ? "" : "d-none"?>">팔로우</button>
+                    <button type="button" id="btnFollow" data-follow="1" class="btn btn-outline-secondary <?= !$youme && $meyou || $youme && $meyou ? "" : "d-none"?>">팔로우 취소</button> -->
